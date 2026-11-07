@@ -1,1 +1,2 @@
-# Actividad-4.3-Estructuras-lineales-parametrizadas.-Lista-circular-
+Salcedo Alvarez Hugo Emmanuel
+Morales Escobar Juan Adrian 
